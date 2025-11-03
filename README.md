@@ -1,15 +1,15 @@
 # UKCEH West Africa Hydrological Forecasting Training Workshop 2026
+<p align="center">
+  <img width="865" height="112" alt="image" src="https://github.com/user-attachments/assets/3603864a-66e1-4c62-a9c1-9f85e0943865" />
+</p>
 Welcome to the repository for scripts and data for the UKCEH West Africa Hydrological Forecasting Training Workshop 2026.
-<img width="865" height="112" alt="image" src="https://github.com/user-attachments/assets/3603864a-66e1-4c62-a9c1-9f85e0943865" />
 
 
 
 ## Agenda
-|  | Day 1 Tuesday | Day 2 Wednesday | Day 3 Thursday |
+|  | Day 1 Tuesday Theme: Hydrological Datasets | Day 2 Wednesday Theme: Water Resources Modelling | Day 3 Thursday Theme: Seasonal Forecast Applications |
 | --- | --- | --- | --- |
-|  | HydrologicalDatasets | Water Resources Modelling | Seasonal Forecast Applications |
-| 09:00 - 09:30 | Welcome & Registration | Talk: Introduction to Machine Learning (ML) based modelling | Talk: Introduction to Applications |
-| 09:30 - 10:00 | Talk: Intro to the training |
+| 09:00 - 10:00 | Registration, Welcome & Introduction | Talk: Introduction to Machine Learning (ML) based modelling | Talk: Introduction to Applications |
 | 10:00 - 11:00 | Hands-on: Computing setup and testing | Workshop: ML-based water resource modelling | Workshop: Catchment-based seasonal hydrological forecasting |
 | 11:00 - 11:30 | BREAK | BREAK | BREAK |
 | 11:30 - 13:00 | Workshop: Remote data access | Workshop: Continued | Workshop: Continued |
