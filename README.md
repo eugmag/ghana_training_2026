@@ -4,9 +4,54 @@
 </p>
 Welcome to the repository for scripts and data for the UKCEH West Africa Hydrological Forecasting Training Workshop 2026.
 
+This series of hands-on workshops introduces the fundamentals of accessing, modelling, and analysing hydrological data and approaches. Each session is designed to build practical skills through guided exercises and additional resources. Below you will find brief summaries of each workshop, along with links to the corresponding resources that we will explore together during the training.
 
+<details>
+    <summary><i><b>If you are not attending the online Summer School, please click here to read this message.</i></b></b></summary>
+    
 
-## Agenda
+These notebooks were developed for the UKCEH Summer School and are intended for interactive use during the training sessions. They are designed to run on <a href=https://colab.google/>Google Colab</a>, which allows you to get started quickly without any local setup. For guidance on how to run the notebooks on Colab, see the [Running the Training Notebooks on Google Colab](#running-on-colab) section below.
+
+You are also very welcome to explore the notebooks at your own pace, on any platform of your choice, as long as the required packages are installed. This repository includes a requirements.txt file listing all the necessary dependencies for the various workshops. To install these locally, run the following command:
+
+   > !python -m pip install -r requirements.txt
+
+If you would like help setting up the environment on your local machine or another platform, we are happy to provide support. 
+
+</details>
+
+---
+
+## Training Objectives
+The high-level objectives of this summer school are:
+- Demonstrate how to access and work with remote datasets using Python
+- Provide an overview of key datasets commonly used in hydrological science
+- Offer hands-on experience with standard tools and packages through practical applications
+- Introduce fundamental concepts in water resources modelling
+- Seasonal forecasting???? 
+
+<a id='running-on-colab'></a>
+## Running the Training Notebooks on Google Colab
+To run the training notebooks using *Google Colab*, follow these steps:
+1. **Log in to your Google account** and open [Google Colab](https://colab.research.google.com/).
+2. In Colab, go to **File > Open notebook**.
+3. Select the **GitHub** tab.
+4. Paste the URL of the specific notebook (ending in `.ipynb`) from this repository into the search bar.
+5. Click on the notebook you want to open.
+
+> **Important:** Before you start editing, make sure to **Save a copy to your own Google Drive**.
+
+6. Go to **File > Save a copy in Drive**. This will open a new tab with the title `Copy of <Notebook Name>`.
+7. You are now working on your own copy of the notebook, which you can rename if you choose.
+8. You can safely close the original (read-only) notebook tab and continue working on your personal copy.
+9. The copied notebook will be saved in your Google Drive and can be accessed anytime.
+
+---
+
+## Introduction to the Workshops
+This series of different interactive workshops is designed to introduce participants to data-driven approaches in hydrological science. Each session focuses on a specific aspect of working with hydrological data, from modelling concepts to accessing, exploring, and applying datasets in research contexts.
+
+### Agenda
 |  | Day 1 Tuesday Theme: Hydrological Datasets | Day 2 Wednesday Theme: Water Resources Modelling | Day 3 Thursday Theme: Seasonal Forecast Applications |
 | --- | --- | --- | --- |
 | 09:00 - 10:00 | Registration, Welcome & Introduction | Talk: Introduction to Machine Learning (ML) based modelling | Talk: Introduction to Applications |
@@ -17,3 +62,37 @@ Welcome to the repository for scripts and data for the UKCEH West Africa Hydrolo
 | 14:30 - 16:00 | Workshop: Data analysis and visualisation | Workshop:  Continued | Workshop: Continued |
 | 16:00 - 17:00 | Q/A | Q/A | Q/A |
 | 18:00 - 21:00 | Wrap up | DINNER | Wrap up |
+
+
+### Theme 1: Hydrological Datasets
+**Facilitators:** *Eugene Magee | Amulya Chevuturi*
+
+Follow-along session on accessing and retrieving remote hydrological datasets using Python, including common tools and protocols for working with data hosted on public or institutional servers. Hands-on session on exploring different types of hydroclimate datasets, including basic techniques for processing, visualisation, and analysis. Here is the link to ???.
+
+### Theme 2: Water Resource Modelling
+**Facilitators:** *Nathan Rickards | Helen Baron*
+
+An introduction to hydrological modelling, with a hands on application of a UKCEH water resources model in a case study catchment. Here is the link to ???.
+
+
+### Theme 3: Seasonal Forecast Applications
+**Facilitators:** *Eugene Magee | Ezra Kitson | ???*
+
+Here is the link to ???.
+
+---
+
+## Contact
+If you have any questions or need assistance with the workshops, please feel free to get in touch with us:
+
+> [National Capability for Global Challenges Team](mailto:NC-international@ceh.ac.uk)
+
+
+---
+
+## Acknowledgements
+This workshop was supported by the Natural Environment Research Council as part of the NC-International programme delivering National Capability [NE/X006247/1]. 
+
+## License 
+© 2025 UK Centre for Ecology & Hydrology. This is an open-access repository under the terms of the Creative Commons Attribution License, which permits use, distribution, and reproduction in any medium, provided the original reporsitory is properly cited.
+
