@@ -61,7 +61,7 @@ This series of different interactive workshops is designed to introduce particip
 | 13:00 - 14:00 | LUNCH | LUNCH | LUNCH |
 | 14:30 - 16:00 | Workshop: Data analysis and visualisation | Workshop:  Continued | Workshop: Continued |
 | 16:00 - 17:00 | Q/A | Q/A | Q/A |
-| 18:00 - 21:00 | Wrap up | DINNER | Wrap up |
+| 18:00 - 21:00 | Free evening | DINNER | Free evening |
 
 
 ### Theme 1: Hydrological Datasets
