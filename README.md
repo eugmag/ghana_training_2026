@@ -1,6 +1,6 @@
 # UKCEH West Africa Hydrological Forecasting Training Workshop 2026
 <p align="center">
-  <img width="865" height="112" alt="image" src="https://github.com/eugmag/ghana_training_2026/blob/main/content/Logo.png" />
+  <img width="865" height="112" alt="image" src="https://github.com/eugmag/ghana_training_2026/blob/main/content/workshop_logo.png" />
 </p>
 
 Welcome to the repository for scripts and data for the UKCEH West Africa Hydrological Forecasting Training Workshop 2026.
