@@ -73,7 +73,7 @@ Follow-along session on accessing and retrieving remote hydrological datasets us
 ### Theme 2: Water Resource Modelling
 **Facilitators:** *Nathan Rickards | Helen Baron*
 
-An introduction to hydrological modelling, with a hands on application of a UKCEH water resources model in a case study catchment. Here is the link to ???.
+An introduction to reservoir storage forecasting, with a hands on application of machine learning using a tree-based approach. Data selection, feature engineering and selection, hyper paramter tuning and model evaluation will all be explored in the context of building a robust machine learning tool to help forecast reservoir storage at a monthly-seasonal timestep. Here is the link to ???.
 
 
 ### Theme 3: Seasonal Forecast Applications
