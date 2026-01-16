@@ -53,14 +53,15 @@ To run the training notebooks using *Google Colab*, follow these steps:
 This series of different interactive workshops is designed to introduce participants to data-driven approaches in hydrological science. Each session focuses on a specific aspect of working with hydrological data, from modelling concepts to accessing, exploring, and applying datasets in research contexts.
 
 ### Agenda
-| | 27 January 2026 <br> Theme: Hydrological Datasets </br> | 28 January 2026 <br> Theme: Water Resources Modelling </br> | 29 January 2026 <br> Theme: Seasonal Forecast Applications </br> |
+| | Day 1: 27 January 2026 <br> Theme: Hydrological Datasets </br> | Day 2: 28 January 2026 <br> Theme: Water Resources Modelling </br> | Day 3: 29 January 2026 <br> Theme: Seasonal Forecast Applications </br> |
 | --- | --- | --- | --- |
-| 09:00 - 10:00 | Registration, Welcome & Introduction | Talk: Introduction to Machine Learning (ML) based modelling | Talk: Introduction to Applications |
+| 09:00 - 10:00 | Welcome & Introduction | Talk: Introduction to Machine Learning (ML) based modelling | Talk: Introduction to Applications |
 | 10:00 - 11:00 | Hands-on: Computing setup and testing | Workshop: ML-based water resource modelling | Workshop: Running a Hydrological Model |
 | 11:00 - 11:30 | BREAK | BREAK | BREAK |
 | 11:30 - 13:00 | Workshop: Remote data access | Workshop: Continued | Workshop: Running Ensemble Streamflow Prediction |
 | 13:00 - 14:00 | LUNCH | LUNCH | LUNCH |
-| 14:00 - 16:00 | Workshop: Data analysis and visualisation | Workshop:  Continued | Workshop: Categorizing a Forecast Product for Enhanced Decision Making |
+| 14:00 - 15:30 | Workshop: Data analysis and visualisation | Workshop:  Continued | Workshop: Categorizing a Forecast Product for Enhanced Decision Making |
+| 15:30 - 16:00 | BREAK | BREAK | BREAK |
 | 16:00 - 17:00 | Q/A | Q/A | Q/A |
 | 18:00 - 21:00 | Free evening | DINNER | Free evening |
 
