@@ -77,9 +77,9 @@ An introduction to reservoir storage forecasting, with a hands-on application of
 
 
 ### Theme 3: Seasonal Forecast Applications
-**Facilitators:** *Eugene Magee | Ezra Kitson | ???*
+**Facilitators:** *Eugene Magee | Ezra Kitson | Lucy Barker*
 
-Here is the link to ???.
+This day provides R workbooks that introduce participants to running a lumped catchment hydrological model, using it to generate simple sub-seasonal to seasonal forecasts, and visualising forecast outputs. The first session introduces participants to the GR6J hydrological model, calibrating and running it with rainfall and potential evapotranspiration inputs. The second session then applies that calibrated model to "Ensemble Streamflow Prediction" forecasting, and the third session formats the forecast outputs into graphics suitable for decision making. Here is the link to ???.
 
 ---
 
